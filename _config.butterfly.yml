@@ -24,7 +24,6 @@ nav:
   fixed: false
 
 menu:
-  menu:
   首页: / || fa-solid fa-house
   归档: /archives/ || fa-solid fa-archive
   标签: /tags/ || fa-solid fa-tags
@@ -64,7 +63,7 @@ social:
 favicon: /img/favicon.png
 
 avatar:
-  img: /img/头像.png
+  img: /img/头像.jpg
   effect: false
 
 # Disable all banner images
