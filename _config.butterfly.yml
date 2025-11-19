@@ -63,7 +63,7 @@ social:
 favicon: /img/favicon.png
 
 avatar:
-  img: /img/头像.jpg
+  img: /img/avatar.jpg
   effect: false
 
 # Disable all banner images
